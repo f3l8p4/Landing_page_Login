@@ -1,0 +1,21 @@
+
+body{
+    background: url('../images/bg-intro-desktop.png');
+    background-color: rgb(212, 19, 19);
+}
+.main{
+    margin-top:5.5rem !important;
+}
+.formulario{
+    margin: 5px;
+}
+.btn-color{
+    background: #00cc66;
+    font-size: 16px;
+}
+.span{
+    font-size: 0.780rem;
+}
+.shadowbox{
+    box-shadow: 3px 5px 1px hsla(0, 0%, 0%, 0.222);
+}
